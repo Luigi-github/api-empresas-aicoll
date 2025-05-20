@@ -1,6 +1,6 @@
 # API de Gestión de Empresas - Desafío Técnico Aicoll
 
-Este proyecto es una API RESTful desarrollada con **Laravel 10** para gestionar empresas. Forma parte del desafío técnico propuesto por Aicoll y cumple con los requisitos funcionales, técnicos y de calidad del código solicitados.
+Este proyecto es una API RESTful desarrollada con **Laravel 12** para gestionar empresas. Forma parte del desafío técnico propuesto por Aicoll y cumple con los requisitos funcionales, técnicos y de calidad del código solicitados.
 
 ---
 
